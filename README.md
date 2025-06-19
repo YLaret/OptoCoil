@@ -68,6 +68,8 @@ combine_coils.m
 
 The default script generates 32 coil configurations stored in `OptoCoil/COILS`.
 
+> **Note**: To generate the 420 coils from the research run `createCoils_420.m`
+
 ---
 
 ## 🧊 Phantom Creation
